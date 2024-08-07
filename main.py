@@ -1,5 +1,5 @@
 def main():
-	print("hello, world! Welcome to v2 software!")
+	print("This is v3 of the application!")
 
 if __name__ == "__main__":
 	main()
